@@ -44,7 +44,13 @@ Ce projet a entièrement été réalisé en Python dans un environnement Jupyter
 + **Gestion de version** : Git et GitHub
 
 ## **6. Comment utiliser ce projet ?**
-+ Clonez le sur votre machine local
++ Clonez le sur votre machine local avec la commande suivante:
+git clone https://github.com/Larry-chris/analyse-maladies-cardiaques.git
 + Installez les dépendances nécessaires :
 pip install -r requirements.txt
-+ Ouvrez le notebook analyse
++ Ouvrez le notebook EDA_heart_diceases_uci.ipynb dans Jupyter Notebook pour explorer l'analyse complète.
+
+## **7. Contact**
+Je suis ouvert à la discussion,aux retours et aux opportunités de collaboration.
++ Profil Linkedln : Chris Larry BOKO
++ Email : bokolarry1@gmail.com
