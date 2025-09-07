@@ -37,3 +37,14 @@ Cette analyse a permis de mettre en évidence plusieurs facteurs de risque poten
   + Paradoxalement, le type de douleur thoracique n'est pas un indicateur fiable, la majorité des patients malades étant asymptomatique.
   + La cholestérolémie également ne montrait pas de corrélation claire ou directe avec la présence de maladie cardiaque.
 
+## **5. Outils et technologies utilisés**
+Ce projet a entièrement été réalisé en Python dans un environnement Jupyter Notebook. Les outils utilisés sont : 
++ **Analyse des données** : Pandas,Numpy
++ **Visualisation des données** : Matplotlib,Seaborn
++ **Gestion de version** : Git et GitHub
+
+## **6. Comment utiliser ce projet ?**
++ Clonez le sur votre machine local
++ Installez les dépendances nécessaires :
+pip install -r requirements.txt
++ Ouvrez le notebook analyse
